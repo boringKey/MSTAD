@@ -1,0 +1,515 @@
+{"filename": "carpet/test/cut/002.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/002_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/009.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/009_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/004.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/004_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/007.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/007_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/001.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/001_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/016.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/016_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/011.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/011_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/003.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/003_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/013.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/013_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/015.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/015_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/008.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/008_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/005.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/005_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/006.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/006_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/010.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/010_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/012.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/012_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/000.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/000_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/cut/014.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/cut/014_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/002.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/002_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/009.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/009_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/004.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/004_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/007.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/007_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/001.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/001_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/016.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/016_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/011.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/011_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/003.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/003_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/013.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/013_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/015.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/015_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/008.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/008_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/005.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/005_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/006.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/006_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/010.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/010_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/012.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/012_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/000.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/000_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/metal_contamination/014.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/metal_contamination/014_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/good/002.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/020.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/009.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/026.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/023.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/017.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/004.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/021.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/007.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/001.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/018.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/016.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/024.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/011.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/027.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/003.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/013.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/019.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/015.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/022.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/008.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/005.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/006.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/010.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/012.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/000.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/014.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/good/025.png", "label": 0, "label_name": "good", "clsname": "carpet"}
+{"filename": "carpet/test/hole/002.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/002_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/009.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/009_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/004.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/004_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/007.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/007_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/001.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/001_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/016.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/016_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/011.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/011_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/003.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/003_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/013.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/013_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/015.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/015_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/008.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/008_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/005.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/005_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/006.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/006_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/010.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/010_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/012.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/012_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/000.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/000_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/hole/014.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/hole/014_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/002.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/002_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/009.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/009_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/017.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/017_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/004.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/004_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/007.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/007_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/001.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/001_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/018.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/018_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/016.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/016_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/011.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/011_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/003.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/003_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/013.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/013_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/015.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/015_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/008.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/008_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/005.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/005_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/006.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/006_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/010.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/010_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/012.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/012_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/000.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/000_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/color/014.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/color/014_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/002.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/002_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/009.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/009_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/017.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/017_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/004.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/004_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/007.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/007_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/001.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/001_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/018.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/018_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/016.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/016_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/011.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/011_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/003.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/003_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/013.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/013_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/015.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/015_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/008.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/008_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/005.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/005_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/006.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/006_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/010.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/010_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/012.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/012_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/000.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/000_mask.png", "clsname": "carpet"}
+{"filename": "carpet/test/thread/014.png", "label": 1, "label_name": "defective", "maskname": "carpet/ground_truth/thread/014_mask.png", "clsname": "carpet"}
+{"filename": "tile/test/glue_strip/002.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/002_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/009.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/009_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/017.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/017_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/004.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/004_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/007.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/007_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/001.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/001_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/016.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/016_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/011.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/011_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/003.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/003_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/013.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/013_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/015.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/015_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/008.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/008_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/005.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/005_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/006.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/006_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/010.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/010_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/012.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/012_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/000.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/000_mask.png", "clsname": "tile"}
+{"filename": "tile/test/glue_strip/014.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/glue_strip/014_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/002.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/002_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/009.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/009_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/004.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/004_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/007.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/007_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/001.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/001_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/011.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/011_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/003.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/003_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/013.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/013_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/008.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/008_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/005.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/005_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/006.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/006_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/010.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/010_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/012.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/012_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/000.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/000_mask.png", "clsname": "tile"}
+{"filename": "tile/test/rough/014.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/rough/014_mask.png", "clsname": "tile"}
+{"filename": "tile/test/good/002.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/020.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/009.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/026.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/023.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/017.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/029.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/004.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/021.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/007.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/001.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/018.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/031.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/016.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/024.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/011.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/027.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/003.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/013.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/019.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/015.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/022.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/008.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/005.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/028.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/030.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/006.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/010.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/012.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/000.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/032.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/014.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/good/025.png", "label": 0, "label_name": "good", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/002.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/002_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/009.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/009_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/004.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/004_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/007.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/007_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/001.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/001_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/011.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/011_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/003.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/003_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/013.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/013_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/015.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/015_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/008.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/008_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/005.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/005_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/006.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/006_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/010.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/010_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/012.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/012_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/000.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/000_mask.png", "clsname": "tile"}
+{"filename": "tile/test/gray_stroke/014.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/gray_stroke/014_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/002.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/002_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/009.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/009_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/017.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/017_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/004.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/004_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/007.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/007_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/001.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/001_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/016.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/016_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/011.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/011_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/003.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/003_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/013.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/013_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/015.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/015_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/008.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/008_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/005.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/005_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/006.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/006_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/010.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/010_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/012.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/012_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/000.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/000_mask.png", "clsname": "tile"}
+{"filename": "tile/test/oil/014.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/oil/014_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/002.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/002_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/009.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/009_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/004.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/004_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/007.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/007_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/001.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/001_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/016.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/016_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/011.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/011_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/003.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/003_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/013.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/013_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/015.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/015_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/008.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/008_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/005.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/005_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/006.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/006_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/010.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/010_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/012.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/012_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/000.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/000_mask.png", "clsname": "tile"}
+{"filename": "tile/test/crack/014.png", "label": 1, "label_name": "defective", "maskname": "tile/ground_truth/crack/014_mask.png", "clsname": "tile"}
+{"filename": "leather/test/cut/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/002_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/009_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/017_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/004_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/007_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/001_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/018.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/018_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/016_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/011_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/003_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/013_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/015_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/008_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/005_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/006_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/010_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/012_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/000_mask.png", "clsname": "leather"}
+{"filename": "leather/test/cut/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/cut/014_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/002_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/009_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/017_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/004_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/007_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/001_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/018.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/018_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/016_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/011_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/003_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/013_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/015_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/008_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/005_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/006_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/010_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/012_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/000_mask.png", "clsname": "leather"}
+{"filename": "leather/test/glue/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/glue/014_mask.png", "clsname": "leather"}
+{"filename": "leather/test/good/002.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/020.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/009.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/026.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/023.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/017.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/029.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/004.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/021.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/007.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/001.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/018.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/031.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/016.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/024.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/011.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/027.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/003.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/013.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/019.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/015.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/022.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/008.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/005.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/028.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/030.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/006.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/010.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/012.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/000.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/014.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/good/025.png", "label": 0, "label_name": "good", "clsname": "leather"}
+{"filename": "leather/test/color/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/002_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/009_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/017_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/004_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/007_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/001_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/018.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/018_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/016_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/011_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/003_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/013_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/015_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/008_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/005_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/006_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/010_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/012_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/000_mask.png", "clsname": "leather"}
+{"filename": "leather/test/color/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/color/014_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/002_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/009_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/017.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/017_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/004_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/007_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/001_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/016_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/011_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/003_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/013_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/015_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/008_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/005_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/006_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/010_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/012_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/000_mask.png", "clsname": "leather"}
+{"filename": "leather/test/poke/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/poke/014_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/002.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/002_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/009.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/009_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/004.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/004_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/007.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/007_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/001.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/001_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/016.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/016_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/011.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/011_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/003.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/003_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/013.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/013_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/015.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/015_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/008.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/008_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/005.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/005_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/006.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/006_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/010.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/010_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/012.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/012_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/000.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/000_mask.png", "clsname": "leather"}
+{"filename": "leather/test/fold/014.png", "label": 1, "label_name": "defective", "maskname": "leather/ground_truth/fold/014_mask.png", "clsname": "leather"}
+{"filename": "wood/test/combined/002.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/002_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/009.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/009_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/004.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/004_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/007.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/007_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/001.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/001_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/003.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/003_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/008.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/008_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/005.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/005_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/006.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/006_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/010.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/010_mask.png", "clsname": "wood"}
+{"filename": "wood/test/combined/000.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/combined/000_mask.png", "clsname": "wood"}
+{"filename": "wood/test/good/002.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/009.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/017.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/004.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/007.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/001.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/018.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/016.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/011.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/003.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/013.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/015.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/008.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/005.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/006.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/010.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/012.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/000.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/good/014.png", "label": 0, "label_name": "good", "clsname": "wood"}
+{"filename": "wood/test/hole/002.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/002_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/009.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/009_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/004.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/004_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/007.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/007_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/001.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/001_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/003.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/003_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/008.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/008_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/005.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/005_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/006.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/006_mask.png", "clsname": "wood"}
+{"filename": "wood/test/hole/000.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/hole/000_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/002.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/002_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/004.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/004_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/007.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/007_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/001.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/001_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/003.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/003_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/005.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/005_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/006.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/006_mask.png", "clsname": "wood"}
+{"filename": "wood/test/color/000.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/color/000_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/002.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/002_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/009.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/009_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/004.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/004_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/007.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/007_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/001.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/001_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/003.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/003_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/008.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/008_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/005.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/005_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/006.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/006_mask.png", "clsname": "wood"}
+{"filename": "wood/test/liquid/000.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/liquid/000_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/002.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/002_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/020.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/020_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/009.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/009_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/017.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/017_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/004.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/004_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/007.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/007_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/001.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/001_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/018.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/018_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/016.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/016_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/011.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/011_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/003.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/003_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/013.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/013_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/019.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/019_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/015.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/015_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/008.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/008_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/005.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/005_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/006.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/006_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/010.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/010_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/012.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/012_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/000.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/000_mask.png", "clsname": "wood"}
+{"filename": "wood/test/scratch/014.png", "label": 1, "label_name": "defective", "maskname": "wood/ground_truth/scratch/014_mask.png", "clsname": "wood"}
+{"filename": "grid/test/bent/002.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/002_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/009.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/009_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/004.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/004_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/007.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/007_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/001.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/001_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/011.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/011_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/003.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/003_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/008.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/008_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/005.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/005_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/006.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/006_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/010.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/010_mask.png", "clsname": "grid"}
+{"filename": "grid/test/bent/000.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/bent/000_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/002.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/002_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/009.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/009_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/004.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/004_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/007.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/007_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/001.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/001_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/003.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/003_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/008.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/008_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/005.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/005_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/006.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/006_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/010.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/010_mask.png", "clsname": "grid"}
+{"filename": "grid/test/metal_contamination/000.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/metal_contamination/000_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/002.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/002_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/009.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/009_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/004.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/004_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/007.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/007_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/001.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/001_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/003.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/003_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/008.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/008_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/005.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/005_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/006.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/006_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/010.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/010_mask.png", "clsname": "grid"}
+{"filename": "grid/test/glue/000.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/glue/000_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/002.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/002_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/009.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/009_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/004.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/004_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/007.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/007_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/001.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/001_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/011.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/011_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/003.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/003_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/008.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/008_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/005.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/005_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/006.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/006_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/010.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/010_mask.png", "clsname": "grid"}
+{"filename": "grid/test/broken/000.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/broken/000_mask.png", "clsname": "grid"}
+{"filename": "grid/test/good/002.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/020.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/009.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/017.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/004.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/007.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/001.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/018.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/016.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/011.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/003.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/013.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/019.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/015.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/008.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/005.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/006.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/010.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/012.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/000.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/good/014.png", "label": 0, "label_name": "good", "clsname": "grid"}
+{"filename": "grid/test/thread/002.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/002_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/009.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/009_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/004.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/004_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/007.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/007_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/001.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/001_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/003.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/003_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/008.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/008_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/005.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/005_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/006.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/006_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/010.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/010_mask.png", "clsname": "grid"}
+{"filename": "grid/test/thread/000.png", "label": 1, "label_name": "defective", "maskname": "grid/ground_truth/thread/000_mask.png", "clsname": "grid"}
